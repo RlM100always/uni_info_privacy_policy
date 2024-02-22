@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-### Last Updated: [Date]
+### Last Updated: [22-2-2024]
 
 Thank you for choosing University Guide, an educational app developed by [TechTravelCoder]. We respect your privacy and are committed to protecting your personal information.
 
@@ -16,8 +16,8 @@ For questions or concerns about this Privacy Policy or our app, please contact u
 
 #### Our Advertising Partners
 Some of advertisers in our app may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
-  * Facebook
-  * IronSource
+  * StartApp
+  * Monetag
 
 #### Changes to This Privacy Policy
 
@@ -42,7 +42,3 @@ For questions or suggestions about our Privacy Policy, contact us at selfmeteam@
 Thank you for choosing University Guide!
 
 ---
-
-**License**
-
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
