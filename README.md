@@ -1,7 +1,7 @@
 
 # Privacy Policy
 
-### Last Updated: [16-3-2024]
+### Last Updated: [18-3-2024]
 
 Thank you for choosing GlobalUniGuide Android Application, an educational app developed by [TechTravelCoder]. We respect your privacy and are committed to protecting your personal information.
 
@@ -43,6 +43,9 @@ GlobalUniGuide is intended for educational purposes and not for children under 1
 #### Security
 
 While we strive to protect your information, no method of transmission over the internet is 100% secure.
+#### Disclaimer
+We use University Website Link only for Students Educational Purpose , we are not the owner of this website . If any University owner want to remove their website , we 100% promise , remover their
+website , becase we use it only for educational purpose .
 
 #### Contact Us
 
