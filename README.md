@@ -1,7 +1,7 @@
 
 # Privacy Policy
 
-### Last Updated: [18-3-2024]
+### Last Updated: [10-4-2024]
 
 Thank you for choosing GlobalUniGuide Android Application, an educational app developed by [TechTravelCoder]. We respect your privacy and are committed to protecting your personal information.
 
